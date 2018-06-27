@@ -1,10 +1,10 @@
 /*------------------------------------------------------------------
 [Master Stylesheet]
 
-Project:		D-shine
+Project:		VIP Gems mart
 Version:		1.0
-Last change:	07/06/2018
-Primary use:	Jewellery
+Last change:	25/06/2018
+Primary use:	Jewellery/jwellery
 
 -------------------------------------------------------------------*/
 
@@ -5001,7 +5001,7 @@ abbr[title] {
 
 .catalogBox {
     text-transform: uppercase;
-    padding: 15px;
+    padding: 0px;
     text-align: center;
     width: 20%
 }
